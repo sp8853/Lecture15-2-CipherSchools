@@ -1,0 +1,5 @@
+which point of the array which letter is stored 
+name[5]="rohit"
+automatically assigns a character array to this string 
+a string also has a null character at the end 
+a string is a chracter with a null character the end
